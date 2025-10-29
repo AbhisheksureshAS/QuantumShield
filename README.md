@@ -26,6 +26,8 @@ To create an adaptive, quantum-resilient blockchain defense layer that ensures a
 
 ---
 contact address 0xA647aE7b2f51A12d73eCc5634f949CF98F0D67FC
+<img width="1182" height="706" alt="Screenshot 2025-10-29 143822" src="https://github.com/user-attachments/assets/cc2efc4e-5035-40ab-99c6-c9c92dd9e1c5" />
+
 
 ## Deployment
 You can deploy QuantumShield on any EVM-compatible chain (Ethereum, Polygon, BSC, etc.) using:
