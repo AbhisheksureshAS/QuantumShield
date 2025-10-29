@@ -30,3 +30,4 @@ To create an adaptive, quantum-resilient blockchain defense layer that ensures a
 You can deploy QuantumShield on any EVM-compatible chain (Ethereum, Polygon, BSC, etc.) using:
 ```bash
 npx hardhat run scripts/deploy.js --network sepolia
+contact address 0xA647aE7b2f51A12d73eCc5634f949CF98F0D67FC
