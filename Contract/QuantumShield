@@ -3,7 +3,7 @@ pragma solidity ^0.8.20;
 
 /**
  * @title QuantumShield
- * @dev A security-focused smart contract designed to protect digital assets 
+ * @dev A security-focused smart contract  designed to protect digital assets 
  *      using multi-signature authorization and emergency shielding mechanisms.
  */
 contract QuantumShield {
